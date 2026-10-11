@@ -1,6 +1,6 @@
 # End-to-End Housing Price Prediction System
 
-A Python machine-learning project that trains a Random Forest regression model on the California Housing dataset and uses the trained model to predict median house values for new records.
+A Python machine-learning project that trains a Random Forest regression model on the Housing dataset and uses the trained model to predict median house values for new records.
 
 ## Overview
 
